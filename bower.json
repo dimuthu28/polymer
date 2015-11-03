@@ -1,0 +1,23 @@
+{
+  "name": "polymerPOC",
+  "homepage": "https://github.com/dimuthu28/polymer",
+  "authors": [
+    "Dimuthu"
+  ],
+  "description": "web component research",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
